@@ -4,7 +4,9 @@
   </a>
 </p>
 
-Onespace-UI-beta
+Onespace-DEX-beta
+Build on Raydium UI
+
 ## Community
 
 - [Discord](https://discord.com/invite/xud97tybPc)
