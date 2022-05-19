@@ -63,7 +63,7 @@ const MENU = [
     'link': '#',
   },
   {
-    'title': 'Whitepaper',
+    'title': 'Docs',
     'child': [
       {
         'title': 'Whitepaper',
@@ -71,7 +71,7 @@ const MENU = [
       },
       {
         'title': 'Docs',
-        'link': '#'
+        'link': 'https://docs.1space.me/'
       },
     ]
   }
