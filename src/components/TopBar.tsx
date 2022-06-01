@@ -56,7 +56,7 @@ const MENU = [
   },
   {
     'title': 'NFT',
-    'link': '#',
+    'link': 'https://nft.1space.me/',
   },
   {
     'title': 'Dashboard',
